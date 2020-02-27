@@ -12,7 +12,7 @@ const Cards = () => {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Luke Skywalker</h5>
               <p class="card-text">
                 This is a longer card with supporting text below as a natural
                 lead-in to additional content. This content is a little bit
@@ -21,6 +21,14 @@ const Cards = () => {
               <p class="card-text">
                 <small class="text-muted">Last updated 3 mins ago</small>
               </p>
+              <button type="button mb-5" class="btn btn-outline-primary">
+                Learn More
+              </button>
+              <button type="button mb-5" class="btn btn-outline-primary">
+                <i class="fa fa-gratipay"></i>
+              </button>
+
+              <button type="button"></button>
             </div>
           </div>
           <div class="card">
@@ -30,7 +38,7 @@ const Cards = () => {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Princess Leia</h5>
               <p class="card-text">
                 This card has supporting text below as a natural lead-in to
                 additional content.
@@ -47,7 +55,7 @@ const Cards = () => {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Han Solo</h5>
               <p class="card-text">
                 This is a wider card with supporting text below as a natural
                 lead-in to additional content. This card has even longer content
